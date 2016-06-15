@@ -1,0 +1,10 @@
+PODS:
+  - JTMaterialSpinner (1.0.2)
+
+DEPENDENCIES:
+  - JTMaterialSpinner (~> 1.0)
+
+SPEC CHECKSUMS:
+  JTMaterialSpinner: f9e825c80317023f479b7ecc2856785280d8a8c5
+
+COCOAPODS: 0.39.0
